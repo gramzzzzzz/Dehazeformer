@@ -1,0 +1,165 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-715-509
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 11:16:38] "GET / HTTP/1.1" 200 -
+ERROR:root:DehazeFormer failed: C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\torch\functional.py:445: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ..\aten\src\ATen\native\TensorShape.cpp:2157.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "C:\Users\shrir\OneDrive\Desktop\DehazeFormer-main\test.py", line 108, in <module>
+    test(test_loader, network, result_dir)
+  File "C:\Users\shrir\OneDrive\Desktop\DehazeFormer-main\test.py", line 84, in test
+    os.rename(os.path.join(result_dir, 'results.csv'), 
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: './results/mu\\dehazeformer-s\\results.csv' -> './results/mu\\dehazeformer-s\\4.68 | 0.0002.csv'
+
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 11:17:01] "POST /api/process-image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 11:17:01] "GET /data/mu/test/hazy/0001_0.8_0.2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 11:17:01] "GET /results/mu/dehazeformer-s/imgs/0001_0.8_0.2.jpg HTTP/1.1" 200 -
+ERROR:root:DehazeFormer failed: C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\torch\functional.py:445: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ..\aten\src\ATen\native\TensorShape.cpp:2157.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "C:\Users\shrir\OneDrive\Desktop\DehazeFormer-main\test.py", line 108, in <module>
+    test(test_loader, network, result_dir)
+  File "C:\Users\shrir\OneDrive\Desktop\DehazeFormer-main\test.py", line 84, in test
+    os.rename(os.path.join(result_dir, 'results.csv'), 
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: './results/mu\\dehazeformer-s\\results.csv' -> './results/mu\\dehazeformer-s\\5.25 | 0.0210.csv'
+
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 11:17:32] "POST /api/process-image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 11:17:33] "GET /data/mu/test/hazy/1443_7.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 11:17:33] "GET /results/mu/dehazeformer-s/imgs/1443_7.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-715-509
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:21:52] "[36mGET / HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:22:06] "POST /api/process-image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:22:07] "GET /data/mu/test/hazy/1443_7.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:22:07] "GET /results/mu/dehazeformer-s/imgs/1443_7.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:22:13] "POST /api/process-image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:22:13] "GET /data/mu/test/hazy/0001_0.8_0.2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:22:13] "GET /results/mu/dehazeformer-s/imgs/0001_0.8_0.2.jpg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-715-509
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:22:50] "[36mGET / HTTP/1.1[0m" 304 -
+ERROR:root:DehazeFormer failed: C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\torch\functional.py:445: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ..\aten\src\ATen\native\TensorShape.cpp:2157.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+C:\Users\shrir\anaconda3\envs\ml_proj\lib\site-packages\timm\models\layers\__init__.py:48: FutureWarning: Importing from timm.models.layers is deprecated, please import via timm.layers
+  warnings.warn(f"Importing from {__name__} is deprecated, please import via timm.layers", FutureWarning)
+Traceback (most recent call last):
+  File "C:\Users\shrir\OneDrive\Desktop\DehazeFormer-main\test.py", line 108, in <module>
+    test(test_loader, network, result_dir)
+  File "C:\Users\shrir\OneDrive\Desktop\DehazeFormer-main\test.py", line 84, in test
+    os.rename(os.path.join(result_dir, 'results.csv'), 
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: './results/mu\\dehazeformer-s\\results.csv' -> './results/mu\\dehazeformer-s\\5.82 | 0.0418.csv'
+
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:23:33] "POST /api/process-image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:23:33] "GET /data/mu/test/hazy/1443_7.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Nov/2024 20:23:33] "GET /results/mu/dehazeformer-s/imgs/1443_7.png HTTP/1.1" 200 -
